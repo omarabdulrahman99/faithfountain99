@@ -12,13 +12,11 @@ function App() {
         <div className="quote">
           Quran 75:36  "Does man think that he will be left neglected?"
         </div>
-        <div style={{width:"100%", height:"900px", position:"relative"}}>
           <iframe src="https://streamable.com/e/whijq7?autoplay=1" frameBorder="0" width="100%" height="100%" allow="autoplay">
           </iframe>
           <audio preload src="riversound.mp3" className="audio-river" loop autoPlay>
             <source src="riversound.mp3" type="audio/mp3"></source>
           </audio>
-        </div>
       </div>
 
       <div className="content-wrapper">

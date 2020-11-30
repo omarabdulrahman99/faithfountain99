@@ -1,4 +1,4 @@
-.App {
+.App, #root {
 	height: 100vh;
 	background-color: black;
 	position: relative;
@@ -25,23 +25,17 @@ h1 {
   color: white; 
   font-family: "Courier";
   font-size: 30px;
-  white-space: nowrap;
-  overflow: hidden;
-  animation: type 6s steps(60, end); 
-  width:75%;
-  height:500px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -80%);
-  transform: translate(-50%, -80%);
+
+
+
+  position: relative;
+  padding-top: 100px;
+
   z-index: 1;
   text-align:center;
 }
 
-@keyframes type{ 
-  from { width: 0; } 
-} 
+
 
 img {
   background-color: black;
@@ -49,7 +43,7 @@ img {
 
 video, iframe {
   width: 75%;
-  height: 500px;
+  height: 700px;
   position: relative;
   top: 50%;
   left: 50%;
@@ -97,6 +91,9 @@ video, iframe {
 	width: 100%;
 	background-color: black;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .content-wrapper li {
@@ -105,9 +102,7 @@ video, iframe {
 
 
 .content {
-	width: 50%;
-	margin: auto auto; /* centers content */
-	padding: 10px;
+	margin: 10px 5em 10px 5em;
 	font-size: 1.3em;
 	line-height: 1.5;
   text-align: center;
