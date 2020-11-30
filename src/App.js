@@ -60,6 +60,8 @@ function App() {
           <br/><br/>
           <img width="25px" src={starlink} /> <span> A prophecy that one day, things we wear like shoes, or the area on our thighs will speak to us, and tell us of things happening back at home. Referring to some sort of cell technology. https://sunnah.com/tirmidhi/33/24 </span>
           <br/> <br />
+          <img width="25px" src={starlink} /> <span> "When the shepherds of black camels start boasting and competing with others in the construction of higher buildings. And the Hour is one of five things which nobody knows except Allah"  This prophecy can be seen today where the UAE (#1) and Saudi Arabia (#3) are in the top 3 of having the tallest buildings in the world....Something they would have never accomplished without the money they are getting from oil sales.  https://sunnah.com/bukhari/2/43</span>
+          <br/> <br />
           More to come!
         </div>
       </div>
