@@ -13,12 +13,15 @@ function App() {
           Quran 75:36  "Does man think that he will be left neglected?"
         </div>
         <div style={{width:"100%", height:"900px", position:"relative"}}>
-          <iframe src="https://streamable.com/e/whijq7?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay">
+          <iframe src="https://streamable.com/e/whijq7?autoplay=1" frameBorder="0" width="100%" height="100%" allow="autoplay">
           </iframe>
+          <audio preload src="riversound.mp3" className="audio-river" loop autoPlay>
+            <source src="riversound.mp3" type="audio/mp3"></source>
+          </audio>
         </div>
       </div>
 
-      <div class="bgimg-1">
+      <div className="bgimg-1">
       </div>
 
       <div className="content-wrapper">
@@ -51,7 +54,7 @@ function App() {
           <h1> Hadith signs <br/>(Prophet Muhammad's divinely revealed knowledge) </h1>
           <img width="25px" src={starlink} /> <span>"The Last Hour will not come before wealth becomes abundant and overflowing, so much so that a man takes Zakat out of his property and cannot find anyone to accept it from him and till the land of Arabia reverts to meadows and rivers." This prophecy is almost insane to make. Nowhere in Arab tradition did anybody believe that Arabia used to be forests with rivers. RIVERS! FORESTS! And that it would return to transforming into forests sometime before the day of judgment! It was only recently discovered that Arabia changes climate every 23,000 years. Even the Sahara used to be a jungle. Perhaps with climate change, people will be forced to turn deserts into green land to combat global warming. Something inittated by Allan Savory already.</span>
           <br/><br/>
-          <img width="25px" src={starlink} /> <span> A prophecy that Lake Tiberius/Galilee will dry up, and that this will signal the coming of Dajjal (The great deceiver/anti christ). Israel is predicted to receive 25% less rainfall over the next century and it is already having major issues with the usage of Lake Tiberius it had to cut off most usage to it and instead use other water sources.</span>
+          <img width="25px" src={starlink} /> <span> A prophecy that Lake Tiberius/Galilee will dry up, and that this will signal the coming of Dajjal (The great deceiver/anti christ). Israel is predicted to receive between 15%-25% less rainfall over the next century due to climate change and it is already having major issues with the usage of Lake Tiberius it had to cut off most usage to it and instead use other water sources.</span>
           <br/><br/>
           <img width="25px" src={starlink} /> <span> A prophecy that the Euphrates river will dry up, revealing a mountain of gold, and most of the people who try to get that gold will die for it. https://www.npr.org/templates/story/story.php?storyId=102184336 It seems that it is partially coming true. The Euphrates is the lowest it's ever been, fisherman can't even find fish in there anymore. And jewels, coins, documents, and ancient artifacts super valuable to archaeologists to their surprise are showing up.</span>
           <br/><br/>
