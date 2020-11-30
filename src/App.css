@@ -1,38 +1,109 @@
 .App {
-  text-align: center;
+	height: 100vh;
+	background-color: black;
+	position: relative;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  text-align:center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.theater {
+	width:80%;
+	height:70%;
+  background-color: black;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.quote {
+  color: white; 
+  font-family: "Courier";
+  font-size: 30px;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 6s steps(60, end); 
+  width:75%;
+  height:500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -80%);
+  transform: translate(-50%, -80%);
+  z-index: 1;
+  text-align:center;
+}
+
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+img {
+  background-color: black;
+}
+
+video {
+  width: 75%;
+  height: 500px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -60%);
+  transform: translate(-50%, -60%);
+}
+
+.vidquotewrapper {
+	position: relative;
+	height: 100vh;
+	min-height: 100vh;
+}
+
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  position: relative;
+  background-attachment: fixed;  /* Doesn't work on older mobiles/tablets */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg-1 {
+  background-image: url("https://i.imgur.com/0oy6xIw.gif");
+  min-height: 300px;
+  opacity: 1.0;
+}
+
+.bgimg-2 {
+  background-image: url("https://i.imgur.com/Wfd8itL.gif");
+  min-height: 300px;
+  /*background-color: rgb(25,25,25);*/
+  opacity: 0.7;
+  background-blend-mode: darken;
+}
+
+.bgimg-3 {
+  background-image: url("https://i.imgur.com/l93hQAW.gif");
+  min-height: 100%;
+  opacity: 1.0;
+}
+
+.content-wrapper {
+	position: relative;
+	width: 100%;
+	background-color: black;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.content {
+	width: 50%;
+	margin: auto auto; /* centers content */
+	padding: 10px;
+	font-size: 1.3em;
+	line-height: 1.5;
 }
