@@ -66,7 +66,7 @@ video, iframe {
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
-  background-attachment: fixed;  /* Doesn't work on older mobiles/tablets */
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -74,13 +74,13 @@ video, iframe {
 
 .bgimg-1 {
   background-image: url("https://i.imgur.com/0oy6xIw.gif");
-  min-height: 300px;
+  min-height: 400px;
   opacity: 1.0;
 }
 
 .bgimg-2 {
   background-image: url("https://i.imgur.com/Wfd8itL.gif");
-  min-height: 300px;
+  min-height: 600px;
   /*background-color: rgb(25,25,25);*/
   opacity: 0.7;
   background-blend-mode: darken;
@@ -88,7 +88,7 @@ video, iframe {
 
 .bgimg-3 {
   background-image: url("https://i.imgur.com/l93hQAW.gif");
-  min-height: 100%;
+  min-height: 400px;
   opacity: 1.0;
 }
 
