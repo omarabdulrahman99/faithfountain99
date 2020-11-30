@@ -21,6 +21,31 @@ function App() {
         </div>
       </div>
 
+      <div className="content-wrapper">
+        <div className="content">
+          <h1> Creed </h1>
+            <li>
+            1.) Belief in one God and his attributes
+            </li>
+            <li>
+            2.) Belief in the Angels
+            </li>
+            <li>
+            3.) Belief in Divine Books
+            </li>
+            <li>
+            4.) Belief in the Prophets
+            </li>
+            <li>
+            5.) Belief in the Day of Judgment
+            </li>
+            <li>
+            6.) Belief in God's Divine Decree/Destiny
+            </li>
+            <br /> <br />
+        </div>
+      </div>
+
       <div className="bgimg-1">
       </div>
 

@@ -92,11 +92,15 @@ video, iframe {
   opacity: 1.0;
 }
 
-.content-wrapper {
+.content-wrapper  {
 	position: relative;
 	width: 100%;
 	background-color: black;
   color: white;
+}
+
+.content-wrapper li {
+  list-style: none;
 }
 
 
@@ -106,4 +110,5 @@ video, iframe {
 	padding: 10px;
 	font-size: 1.3em;
 	line-height: 1.5;
+  text-align: center;
 }
