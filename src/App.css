@@ -107,3 +107,9 @@ video, iframe {
 	line-height: 1.5;
   text-align: center;
 }
+
+@media screen and (min-width: 1200px) {
+  .content {
+    margin: 10px 20em 10px 20em;
+  }
+}
