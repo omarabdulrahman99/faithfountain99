@@ -76,6 +76,8 @@ function App() {
           <br/> <br/>
           <img width="25px" src={starlink} /> <span>Whenever Moses has dialogue with the Israelites he refers to them as 'My nation'. Whenever Jesus speaks to the Israelites he refers to them as 'Sons of Israel'. The Quran remains consistent with history. Jesus never had a father, and so his father wasn't among that nation. They would refer to each other based on their father's names. So he could never refer to them as 'My nation'.</span>
           <br/> <br />
+          <img width="25px" src={starlink} /><span>"After describing their demise, the Qur’an then says about Pharaoh and his troops, “And the heaven and earth wept not for them, nor were they reprieved” (44:29). While maintaining the coherence of this verse at face value, a recently unearthed pyramid text has granted us new depths to its meaning. Therein, Pharaoh is described as ascending at death to claim supremacy of the heavens; the ancient hieroglyphics read, “The sky weeps for thee; the earth trembles for thee… when thou ascendest to heaven as a star, as the morning star.” In other words, the Qur’an was issuing a direct response to these specific mythological adulations, over one thousand years before the vaults hiding them were unlocked." Credits to Yaqeen Institute. </span>
+          <br/> <br/>
           Many more to come!
         </div>
       </div>
