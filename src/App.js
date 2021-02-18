@@ -50,6 +50,9 @@ function App() {
       <div className="content-wrapper">
         <div className="content">
           <h1> Quranic signs <br/> (God's Direct Words) </h1>
+          <h3>Linguistic</h3>
+          <img width="25px" src={starlink} />Quran 54:17 "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?" The Quran is memorized by millions of people every year by arabic speakers and most importantly, even non native arabic speakers! Which scripture, as long as 604 pages or around 6236 verses could be memorsized on such a large scale? And to have small to large portions of it memorized for daily prayer?<span>
+          <br/><br/>
           <h3>Scientific reality</h3>
           <img width="25px" src={starlink} /> <span>"Have not those who disbelieve known that the heavens and the earth were of one piece, then We parted them, and we made every living thing of water? Will they not then believe?" Quran 21:30. An interpretation out of a few, in harmony with science today: Indeed the universe was one unit, aka the Earth was then later separated into it's own being. And from water came all of life, also confirmed in another verse, Quran 24:45 "Allah has created every moving creature from water." Also: "Moreover He directed Himself to the heaven while it was(as) smoke and said to it and to the earth, "Come [into being], willingly or by compulsion." They said, "We have come willingly." Quran 41:11 The universe at one early point was nothing but clouds of hot hydrogen and helium. God then shapes into to the heavens and creates the Earth from it.</span>
           <br/> <br/>
