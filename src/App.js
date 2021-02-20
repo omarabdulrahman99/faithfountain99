@@ -12,6 +12,9 @@ function App() {
         <div className="quote">
           Quran 75:36  "Does man think that he will be left neglected?"
         </div>
+        <div className="quote">
+          Quran 25:51 "Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ."
+        </div>
           <iframe src="https://streamable.com/e/whijq7?autoplay=1&t=15" frameBorder="0" width="100%" height="100%" allow="autoplay">
           </iframe>
           <audio preload src="riversound.mp3" className="audio-river" loop autoPlay>
@@ -51,7 +54,7 @@ function App() {
         <div className="content">
           <h1> Quranic signs <br/> (God's Direct Words) </h1>
           <h3>Linguistic</h3>
-          <img width="25px" src={starlink} /><span>Quran 54:17 "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?" The Quran is memorized by millions of people every year by arabic speakers and most importantly, even non native arabic speakers! Which scripture, as long as 604 pages or around 6236 verses could be FULLY memorized on such a large scale? And to have small to large portions of it memorized for daily prayer?</span>
+          <img width="25px" src={starlink} /><span>Quran 54:17 "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?" The Quran is memorized by millions of people every year by arabic speakers and most importantly, even non native arabic speakers! Which scripture, as long as 604 pages or around 6236 verses could be FULLY memorized, word for word, every accent mark, on such a large scale? And to have small to large portions of it memorized for daily prayer?</span>
           <br/><br/>
           <h3>Scientific reality</h3>
           <img width="25px" src={starlink} /> <span>"Have not those who disbelieve known that the heavens and the earth were of one piece, then We parted them, and we made every living thing of water? Will they not then believe?" Quran 21:30. An interpretation out of a few, in harmony with science today: Indeed the universe was one unit, aka the Earth was then later separated into it's own being. And from water came all of life, also confirmed in another verse, Quran 24:45 "Allah has created every moving creature from water." Also: "Moreover He directed Himself to the heaven while it was(as) smoke and said to it and to the earth, "Come [into being], willingly or by compulsion." They said, "We have come willingly." Quran 41:11 The universe at one early point was nothing but clouds of hot hydrogen and helium. God then shapes into to the heavens and creates the Earth from it.</span>
@@ -91,7 +94,7 @@ function App() {
         <div className="content">
           <h1> Hadith signs <br/>(Prophet Muhammad's divinely revealed knowledge) </h1>
           <h3>Historical</h3>
-          <img width="25px" src={starlink} /> <span>Prophet Muhammad started out as a one man mission. The super powers at the time, both Byzantine and Persia, crumbled beneath Islam. Today it is 24% of the world population Considering he is the last Prophet and Messenger, it makes sense the message was given such force to be spread to everyone. It transformed the Arabs from being an unwanted wasteland, to a powerful respectable kingdom, for a while.</span>
+          <img width="25px" src={starlink} /> <span>Prophet Muhammad started out as a one man mission. The Arab pagans and tribes which vastly outnumbered him and attempted several assasinations, crumbled. The super powers at the time, both Byzantine and Persia, crumbled beneath Islam. Today it is 24% of the world population Considering he is the last Prophet and Messenger, it makes sense the message was given such force to be spread to everyone. It transformed the Arabs from being an unwanted wasteland, to a powerful respectable kingdom, for a while.</span>
           <br/><br/>
           <h3>Prophecy</h3>
           <img width="25px" src={starlink} /> <span>"The Last Hour will not come before wealth becomes abundant and overflowing, so much so that a man takes Zakat out of his property and cannot find anyone to accept it from him and till the land of Arabia reverts to meadows and rivers." This prophecy is almost insane to make. Nowhere in Arab tradition did anybody believe that Arabia used to be forests with rivers. RIVERS! FORESTS! And that it would return to transforming into forests sometime before the day of judgment! It was only recently discovered that Arabia changes climate every 23,000 years. Even the Sahara used to be a jungle. Perhaps with climate change, people will be forced to turn deserts into green land to combat global warming. Something initiated by Allan Savory already.</span>
