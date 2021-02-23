@@ -103,7 +103,7 @@ function App() {
           <br/><br/>
           <img width="25px" src={starlink} /> <span> A prophecy that the Euphrates river will dry up, revealing a mountain of gold, and most of the people who try to get that gold will die for it. https://www.npr.org/templates/story/story.php?storyId=102184336 It seems that it is partially coming true. The Euphrates is the lowest it's ever been, fisherman can't even find fish in there anymore. And jewels, coins, documents, and ancient artifacts super valuable to archaeologists to their surprise are showing up.</span>
           <br/><br/>
-          <img width="25px" src={starlink} /> <span> A prophecy that one day, things we wear like shoes, or the area on our thighs will speak to us, and tell us of things happening back at home. It could be referring to some sort of cell technology. https://sunnah.com/tirmidhi/33/24 </span>
+          <img width="25px" src={starlink} /> <span> A prophecy that one day, things we wear like shoes, or the area on our thighs will speak to us, and tell us of things happening back at home. There is little doubt it's referring to some cell technology. https://sunnah.com/tirmidhi/33/24 </span>
           <br/> <br />
           <img width="25px" src={starlink} /> <span> "When the shepherds of black camels start boasting and competing with others in the construction of higher buildings. And the Hour is one of five things which nobody knows except Allah"  This prophecy can be seen today where the UAE (#1) and Saudi Arabia (#3) are in the top 3 of having the tallest buildings in the world....Something they would have never accomplished without the money they are getting from oil sales.  https://sunnah.com/bukhari/2/43</span>
           <br/> <br />
