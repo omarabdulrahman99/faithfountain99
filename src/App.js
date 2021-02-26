@@ -93,6 +93,10 @@ function App() {
       <div className="content-wrapper">
         <div className="content">
           <h1> Hadith signs <br/>(Prophet Muhammad's divinely revealed knowledge) </h1>
+          <h3>Scientific reality</h3>
+          'A human fetus does not develop its external sexual organs until seven weeks after fertilization. The fetus appears to be sexually indifferent, looking neither like a male or a female.'
+          Hudhayfah b. Usayd narrated: "After the drop (nutfah) is in the womb for <b>forty or forty-five nights</b>, the angel comes to it and says: 'O Lord, will it be fortunate or unfortunate?' And these matters shall be written. Then he says: 'O Lord, will it be male or female?" [Sahîh Muslim]
+          https://sunnah.com/muslim:2644
           <h3>Historical</h3>
           <img width="25px" src={starlink} /> <span>Prophet Muhammad started out as a one man mission. The Arab pagans and tribes which vastly outnumbered him and attempted several assasinations, crumbled. The super powers at the time, both Byzantine and Persia, crumbled beneath Islam. Today it is 24% of the world population Considering he is the last Prophet and Messenger, it makes sense the message was given such force to be spread to everyone. It transformed the Arabs from being an unwanted wasteland, to a powerful respectable kingdom, for a while.</span>
           <br/><br/>
