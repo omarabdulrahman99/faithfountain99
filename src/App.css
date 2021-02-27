@@ -1,5 +1,4 @@
 .App, #root {
-	height: 100vh;
 	background-color: black;
 	position: relative;
 }
@@ -11,26 +10,11 @@ h3 {
   text-decoration: underline;
 }
 
-.theater {
-	width:80%;
-	height:70%;
-  background-color: black;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  z-index: 0;
-}
 
 .quote {
   color: white; 
   font-family: "Courier";
   font-size: 27px;
-
-
-
   position: relative;
   padding-top: 70px;
   padding-right: 100px;
@@ -46,20 +30,14 @@ img {
 }
 
 video, iframe {
-  width: 75%;
-  height: 700px;
+  height: 75vh;
   position: relative;
-  top: 70%;
-  left: 50%;
-  -ms-transform: translate(-50%, -110%);
-  transform: translate(-50%, -110%);
 }
 
 .vidquotewrapper {
-	position: relative;
-	height: 110vh;
-	min-height: 100vh;
-  background-color: black;
+    position: relative;
+    min-height: 100vh;
+    background-color: #000;
 }
 
 
@@ -92,6 +70,7 @@ video, iframe {
 }
 
 .content-wrapper  {
+  min-height: 50vh;
 	position: relative;
 	width: 100%;
 	background-color: black;
