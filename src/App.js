@@ -84,6 +84,8 @@ function App() {
           <br/> <br />
           <img width="25px" src={starlink} /><span>"After describing their demise, the Qur’an then says about Pharaoh and his troops, “And the heaven and earth wept not for them, nor were they reprieved” (44:29). While maintaining the coherence of this verse at face value, a recently unearthed pyramid text has granted us new depths to its meaning. Therein, Pharaoh is described as ascending at death to claim supremacy of the heavens; the ancient hieroglyphics read, “The sky weeps for thee; the earth trembles for thee… when thou ascendest to heaven as a star, as the morning star.” In other words, the Qur’an was issuing a direct response to these specific mythological adulations, over one thousand years before the vaults hiding them were unlocked." Credits to Yaqeen Institute. </span>
           <br/> <br/>
+          <h3>Psychology</h3>
+          <img width="25px" src={starlink} /><span></span>
           Many more to come!
         </div>
       </div>
@@ -93,6 +95,14 @@ function App() {
       <div className="content-wrapper">
         <div className="content">
           <h1> Hadith signs <br/>(Prophet Muhammad's divinely revealed knowledge) </h1>
+          <h3>Psychology</h3>
+          <img width="25px" src={starlink} /> <span>A sign is his lack of ego, even after he took power. We all know power corrupts most of us. Yet the Prophet when he was told that his past and future sins were forgiven, and why he stayed up the night to keep praying until his legs hurt, he replied 'Should I not be a thankful servant?'
+          https://sunnah.com/mishkat:1220 </span>
+          <br/> <br />
+          <img width="25px" src={starlink} /> <span>  When his son Ibrahim died, that same day there was an eclipse, and people were saying it was due to his son's death. The Prophet replied they sun and moon do not eclipse for anyone's death, rather they are signs of Allah.
+          He could have taken advantage of that situation to boost his claim to prophethood if he was an imposter https://sunnah.com/bukhari:1063 </span>
+          <br/> <br />
+          <img width="25px" src={starlink} /> <span>After the Prophet took gained the upperhand and took back Mecca, he spared his enemies in the city, the same people that caused all types of humiliation and torture on his followers. In that time, tribes would rape the enemy women, enslave the children and kill all the men. Instead he showed them mercy, and didn't force anybody to convert.</span>
           <h3>Scientific reality</h3>
           'A human fetus does not develop its external sexual organs until seven weeks after fertilization. The fetus appears to be sexually indifferent, looking neither like a male or a female.'
           Hudhayfah b. Usayd narrated: "After the drop (nutfah) is in the womb for <b>forty or forty-five nights</b>, the angel comes to it and says: 'O Lord, will it be fortunate or unfortunate?' And these matters shall be written. Then he says: 'O Lord, will it be male or female?" [Sahîh Muslim]
