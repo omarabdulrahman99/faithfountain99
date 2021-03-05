@@ -64,6 +64,8 @@ function App() {
           <br/> <br />
           <img width="25px" src={starlink} /> <span>"The Romans have been defeated in the neighboring land, but after their defeat they shall gain victory in a few years. All power belongs to Allah both before and after. On that day will the believers rejoice" Quran 30:1-5. This was an insane prediction to make for someone claiming to be a Prophet. The Byzantines suffered a severe crippling series of losses by the Persians, it was nearly hopeless. Yet they triumphed, and near that day the Muslims also triumped vs. the Meccan pagans.</span>
           <br/> <br/>
+          <img width="25px" src={starlink} /> <span>The Quran tells us the Kaaba will remain in the hands of the Muslims as true guardians, ever since taking it away from the Quraysh pagans. It's been 1400 years and none but Muslims have kept guardian over it. "And why should Allah not punish them while they hinder pilgrims from the Sacred Mosque, claiming to be its rightful guardians? None has the right to guardianship except those mindful ˹of Allah˺, but most pagans do not know." Quran 8:34</span>
+          <br/> <br/>
           <img width="25px" src={starlink} /> <span>The Quran, a 'recitation' memorized by hundreds of people at the time, was compiled into book form to perfection. If any verse or chapter was missing, there would have been hundreds of reciters pointing to any omissions or insertions. "Indeed We have sent down the Reminder, and indeed We will preserve it."</span>
           <br/> <br/>
           <h3>Mathematical</h3>
