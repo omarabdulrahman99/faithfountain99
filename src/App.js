@@ -98,7 +98,7 @@ function App() {
         <div className="content">
           <h1> Hadith signs <br/>(Prophet Muhammad's divinely revealed knowledge) </h1>
           <h3>Psychology</h3>
-          <img width="25px" src={starlink} /> <span>A sign is his lack of ego, even after he took power. We all know power corrupts most of us. Yet the Prophet when he was told that his past and future sins were forgiven, and why he stayed up the night to keep praying until his legs hurt, he replied 'Should I not be a thankful servant?'
+          <img width="25px" src={starlink} /> <span>A sign is his lack of ego, even after he took power. We all know power corrupts most of us. Yet the Prophet when he was told by God that his past and future sins were forgiven, and asked why he often stayed up the night to keep praying until his legs hurt, he replied 'Should I not be a thankful servant?'
           https://sunnah.com/mishkat:1220 </span>
           <br/> <br />
           <img width="25px" src={starlink} /> <span>  When his son Ibrahim died, that same day there was an eclipse, and people were saying it was due to his son's death. The Prophet replied they sun and moon do not eclipse for anyone's death, rather they are signs of Allah.
