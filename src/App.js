@@ -88,7 +88,10 @@ function App() {
           <br/> <br/>
           <h3>Psychology</h3>
           <img width="25px" src={starlink} /><span></span>
-          Many more to come!
+          <br/><br/>
+          <img width="25px" src={starlink} /><span>The Quran doesn't waver and sway with human influence, human psychology, human defects, as you would find in a story, or any literature or religious text. It has one message, one straight path.</span>
+          <br/><br/>
+          More to come!
         </div>
       </div>
 
