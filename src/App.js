@@ -89,8 +89,6 @@ function App() {
           <img width="25px" src={starlink} /><span>"After describing their demise, the Qur’an then says about Pharaoh and his troops, “And the heaven and earth wept not for them, nor were they reprieved” (44:29). While maintaining the coherence of this verse at face value, a recently unearthed pyramid text has granted us new depths to its meaning. Therein, Pharaoh is described as ascending at death to claim supremacy of the heavens; the ancient hieroglyphics read, “The sky weeps for thee; the earth trembles for thee… when thou ascendest to heaven as a star, as the morning star.” In other words, the Qur’an was issuing a direct response to these specific mythological adulations, over one thousand years before the vaults hiding them were unlocked." Credits to Yaqeen Institute. </span>
           <br/> <br/>
           <h3>Psychology</h3>
-          <img width="25px" src={starlink} /><span></span>
-          <br/><br/>
           <img width="25px" src={starlink} /><span>The Quran doesn't waver and sway with human influence, human psychology, human defects, as you would find in a story, or any literature or religious text. It has one message, one straight path.</span>
           <br/><br/>
           More to come!
@@ -114,9 +112,9 @@ function App() {
           <br/> <br />
           <img width="25px" src={starlink} /> <span>After the Prophet took gained the upperhand and took back Mecca, he spared his enemies in the city, the same people that caused all types of humiliation and torture on his followers. In that time, tribes would rape the enemy women, enslave the children and kill all the men. Instead he showed them mercy, and didn't force anybody to convert.</span>
           <h3>Scientific reality</h3>
-          'A human fetus does not develop its external sexual organs until seven weeks after fertilization. The fetus appears to be sexually indifferent, looking neither like a male or a female.'
+          <img width="25px" src={starlink} /> <span>'A human fetus does not develop its external sexual organs until seven weeks after fertilization. The fetus appears to be sexually indifferent, looking neither like a male or a female.'
           Hudhayfah b. Usayd narrated: "After the drop (nutfah) is in the womb for <b>forty or forty-five nights</b>, the angel comes to it and says: 'O Lord, will it be fortunate or unfortunate?' And these matters shall be written. Then he says: 'O Lord, will it be male or female?" [Sahîh Muslim]
-          https://sunnah.com/muslim:2644
+          https://sunnah.com/muslim:2644 </span>
           <h3>Historical</h3>
           <img width="25px" src={starlink} /> <span>Prophet Muhammad started out as a one man mission. The Arab pagans and tribes which vastly outnumbered him and attempted several assasinations, crumbled. The super powers at the time, both Byzantine and Persia, crumbled beneath Islam. Today it is 24% of the world population Considering he is the last Prophet and Messenger, it makes sense the message was given such force to be spread to everyone. It transformed the Arabs from being an unwanted wasteland, to a powerful respectable kingdom, for a while.</span>
           <br/><br/>
